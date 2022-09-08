@@ -70,7 +70,7 @@
     <repository>
         <id>central</id>
         <name>a0oxkl4qdxrdn-artifactory-primary-0-releases</name>
-        <url>https://sangameshvastrad.jfrog.io/ui/repos/tree/General/example-repo-local</url>
+        <url>https://sangameshvastrad.jfrog.io/artifactory/default-maven-remote-cache</url>
     </repository>
 </distributionManagement>
 </project>
